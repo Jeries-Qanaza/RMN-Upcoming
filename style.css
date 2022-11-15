@@ -1,0 +1,47 @@
+body
+{
+    background-color:rgb(182, 231, 248) ;
+    width:100%;
+    height: 100%;
+    margin: auto;
+}
+.showNa
+{
+    text-align: center;
+    color: rgb(255, 0, 60);
+    z-index: 1;
+    font-size: 25px;
+    margin: 2px;
+}
+
+.showIm
+{
+    width: 200px;
+    height: 100px;
+    border-radius: 30px 0px 30px 0px;
+    border: 2px solid white ;
+    box-shadow: 5px 0px 1px 1px rgb(255, 255, 255);
+    margin-bottom: auto 30px;
+}
+.show
+{
+    min-width: none;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    display: grid;
+    place-items: center;
+    margin: 30px;
+    padding-top: 30px;
+    display: inline-block;
+    align-items: stretch;
+    max-inline-size: 300px;
+    writing-mode: horizontal-tb; 
+}
+
+#container
+{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
