@@ -3,7 +3,7 @@ const dataPrograms =
     {
       id:1,
       progName:"السلام الملائكي",
-      progImg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-OAuXMHkWWQDnXkYIcIFS3GOOKHjR3ba846llCazedF3VMScdE4Pn3htftRV6zj0P8&usqp=CAU",
+      progImg:"https://static.wixstatic.com/media/11d6d3_b3980c1ea25849dbb0f7f8cac43f7ae6~mv2.webp",
     },
     {
       id:2,
@@ -58,7 +58,7 @@ const dataPrograms =
     {
       id:12,
       progName:"المسبحة اسرار الفرح",
-      progImg:"https://w0.peakpx.com/wallpaper/26/813/HD-wallpaper-rosary-and-bible-crosses-book-bible-rosary-thumbnail.jpg"
+      progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
       id:13,
@@ -68,7 +68,7 @@ const dataPrograms =
     {
       id:14,
       progName:"تأملات مسيحية",
-      progImg:"https://static.wixstatic.com/media/cbd749_6480f39d9f9b402fbbed4e45e0b65182~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_e8af4f1349464feb99b7035a705c009d~mv2.jpg"
     },
     {
       id:15,
@@ -158,7 +158,7 @@ const dataPrograms =
     {
       id:32,
       progName:"المسبحة اسرار الحزن",
-      progImg:"https://w0.peakpx.com/wallpaper/26/813/HD-wallpaper-rosary-and-bible-crosses-book-bible-rosary-thumbnail.jpg"
+      progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
       id:33,
@@ -173,7 +173,7 @@ const dataPrograms =
     {
       id:35,
       progName:"قراءات روحية",
-      progImg:"https://static.wixstatic.com/media/e1c0d0_f69c25985c1e408ca918975d07ca60c2~mv2.png"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_38f35fa0fc664e9396d17741288f5c79~mv2.jpg"
     },
     {
       id:36,
@@ -183,7 +183,7 @@ const dataPrograms =
     {
       id:37,
       progName:"المسبحة اسرار المجد",
-      progImg:"https://w0.peakpx.com/wallpaper/26/813/HD-wallpaper-rosary-and-bible-crosses-book-bible-rosary-thumbnail.jpg"
+      progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
       id:38,
@@ -213,7 +213,7 @@ const dataPrograms =
     {
       id:43,
       progName:"المسبحة اسرار النور",
-      progImg:"https://w0.peakpx.com/wallpaper/26/813/HD-wallpaper-rosary-and-bible-crosses-book-bible-rosary-thumbnail.jpg"
+      progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
       id:44,
@@ -223,7 +223,7 @@ const dataPrograms =
     {
       id:45,
       progName:"اسرار النور",
-      progImg:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRss-OAuXMHkWWQDnXkYIcIFS3GOOKHjR3ba846llCazedF3VMScdE4Pn3htftRV6zj0P8&usqp=CAU"
+      progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
       id:46,
@@ -253,7 +253,7 @@ const dataPrograms =
      {
       id:51,
       progName:"كلمة حياة",  
-      progImg:"https://static.wixstatic.com/media/e1c0d0_6655300d26cf4f48b3647aa495a97ccb~mv2.png"
+      progImg:"https://static.wixstatic.com/media/7eae9a_ef4dcff927b5481a833f171231de9457~mv2.jpg"
     },
     {
       id:52,
@@ -263,12 +263,12 @@ const dataPrograms =
     {
       id:53,
       progName:"مزمور النهار",  
-      progImg:"https://static.wixstatic.com/media/cbd749_1fb37fdf54bf4536842aaf27c3a3cd6d~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_d787e1467743470a862e125f10ae9a17~mv2.jpg"
     },
     {
       id:54,
       progName:"طبق اليوم",  
-      progImg:"https://static.wixstatic.com/media/e1c0d0_8a6ee5a80af34fafbe36361a59def0a3~mv2.png"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_ef67a8d516534ef4893765cdab55f84d~mv2.png"
     },
     {
       id:55,
@@ -278,12 +278,12 @@ const dataPrograms =
     {
       id:56,
       progName:"وقفة مع برامجنا",  
-      progImg:"https://static.wixstatic.com/media/e1c0d0_8d03c16859f74ddca90909d0f589d94b~mv2.png"
+      progImg:"https://static.wixstatic.com/media/11d6d3_bfc52a3732414cf692064624837e01f4~mv2.jpg"
     },
     {
       id:57,
       progName:"بشرى نار مع الاب بشار",  
-      progImg:"https://static.wixstatic.com/media/cbd749_1fb37fdf54bf4536842aaf27c3a3cd6d~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_936af99fb5ae45dfb8bf1431b93045dd~mv2.jpeg"
     },
     {
       id:58,
@@ -303,27 +303,27 @@ const dataPrograms =
     {
       id:61,
       progName:"ومضة روحية",  
-      progImg:"https://static.wixstatic.com/media/e1c0d0_636cf12b59f74779bc63c8128b16400d~mv2.webp"
+      progImg:"https://static.wixstatic.com/media/7eae9a_469e8005b49a489b83fe20f22fefbfae~mv2.jpg"
     },
     {
       id:62,
       progName:"التنشئة المسيحية",  
-      progImg:"https://static.wixstatic.com/media/6ec620_e6a68252c7f54fac9e8d912f045135e3~mv2.jpg"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_93946299e9c14ae693135b1959f87bd0~mv2.webp"
     },
     {
       id:63,
       progName:"اشارة وبشارة",  
-      progImg:"https://static.wixstatic.com/media/e1c0d0_fa888c897eb04ffda5554b0e85b72279~mv2.png"
+      progImg:"https://static.wixstatic.com/media/7eae9a_c294d8fadf4e454e94106261c384d215~mv2.jpg"
     },
     {
       id:64,
       progName:"قديسي الاسبوع",  
-      progImg:"https://static.wixstatic.com/media/cbd749_1fb37fdf54bf4536842aaf27c3a3cd6d~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/11d6d3_92755d08b4ac4319b08a403a26b896d9~mv2.jpg"
     },
     {
       id:65,
       progName:"الشباب يشهد",  
-      progImg:"https://static.wixstatic.com/media/e1c0d0_038733fc1dc440b7990588cd5bca4d54~mv2.png"
+      progImg:"https://static.wixstatic.com/media/e1c0d0_7f717a2c114546c7b45057ab37dfacbd~mv2.jpg"
     },
     {
       id:66,
@@ -338,12 +338,12 @@ const dataPrograms =
     {
       id:68,
       progName:"العناصر الاساسية للأخلاق المسيحية",  
-      progImg:"https://static.wixstatic.com/media/cbd749_1fb37fdf54bf4536842aaf27c3a3cd6d~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/11d6d3_7e7e18796a5442ed8cf071eef4386047~mv2.png"
     },
     {
       id:69,
       progName:"اتبعك اليوم وكل ان",  
-      progImg:"https://static.wixstatic.com/media/cbd749_1fb37fdf54bf4536842aaf27c3a3cd6d~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/7eae9a_e124e67a84bd4ad4a9fe93af4b1b68e2~mv2.jpg"
     },
     {
       id:70,
