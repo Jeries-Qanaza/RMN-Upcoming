@@ -71,7 +71,7 @@ const friday = (time) =>
 	else if(time>=23.30&&time<23.45)  {currShow=62}
 	else if(time>=23.45&&time<24)     {currShow=63}
 
-    for (let i = currShow; i < fridayArr.length; i++)
+    for (let i = currShow+1; i < fridayArr.length; i++)
         {
             const newElem = document.createElement("div")
             newElem.className = "show";
