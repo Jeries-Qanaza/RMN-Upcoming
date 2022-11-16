@@ -77,11 +77,11 @@ const wednesday = (time) =>
 
         const showName = document.createElement("h1")
         showName.className="showNa"
-        showName.innerHTML = dataPrograms.find(x => x.id == mondayArr[i]).progName
+        showName.innerHTML = dataPrograms.find(x => x.id == wednesdayArr[i]).progName
         
         const showImage = document.createElement("img")
         showImage.className="showIm"
-        showImage.src = dataPrograms.find(x => x.id == mondayArr[i]).progImg
+        showImage.src = dataPrograms.find(x => x.id == wednesdayArr[i]).progImg
        
         newElem.appendChild(showImage)
         newElem.appendChild(showName)
