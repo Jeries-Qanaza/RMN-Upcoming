@@ -73,7 +73,7 @@ const monday = (time) => {
 
     
     
-    for (let i = currShow; i < mondayArr.length; i++)
+    for (let i = currShow+1; i < mondayArr.length; i++)
     {
         const newElem = document.createElement("div")
         newElem.className = "show";
