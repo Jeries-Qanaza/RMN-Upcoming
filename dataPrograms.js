@@ -138,7 +138,7 @@ const dataPrograms =
     {
       id:28,
       progName:"منائر مع الخوري انطوان الدويهي",
-      progImg:"https://static.wixstatic.com/media/e1c0d0_d357f82eb96344799f8496f0d5130757~mv2.png"
+      progImg:"https://static.wixstatic.com/media/7eae9a_a77da544a3d0403ca9ec663d2ba28cb0~mv2.jpgب"
     },
     {
       id:29,
@@ -148,12 +148,12 @@ const dataPrograms =
     {
       id:30,
       progName:"كلمة الراعي",
-      progImg:"https://static.wixstatic.com/media/cbd749_a79df237507c49f88f09e25fe196cb7e~mv2.jpeg"
+      progImg:"https://static.wixstatic.com/media/7eae9a_7ecbeadd4c5345998b117105d468cd9c~mv2.jpg"
     },
     {
       id:31,
       progName:"ليتروجية بيزنطية",
-      progImg:"https://static.wixstatic.com/media/e1c0d0_0582ab0f760342dfabd23ce24c47b620~mv2.png"
+      progImg:"https://static.wixstatic.com/media/7eae9a_b85d3c162ebd4ce9875bbf17889294c8~mv2.jpg"
     },
     {
       id:32,
@@ -364,6 +364,16 @@ const dataPrograms =
       id:73,
       progName:"ترانيم لاتينية",  
       progImg:"https://static.wixstatic.com/media/cbd749_3dbe037527b7454a8a3356a3ebf37fed~mv2.jpg"
+    },
+    {
+      id:74,
+      progName:"اخلاقيات مسيحية",  
+      progImg:"https://static.wixstatic.com/media/11d6d3_7e7e18796a5442ed8cf071eef4386047~mv2.png"
+    },
+    {
+      id:75,
+      progName:"مقابلات ومفاجئات",  
+      progImg:"https://static.wixstatic.com/media/11d6d3_f78ae08dab3b488783437af44f72ced4~mv2.png"
     },
 
   ]
