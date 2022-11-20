@@ -375,6 +375,11 @@ const dataPrograms =
       progName:"مقابلات ومفاجئات",  
       progImg:"https://static.wixstatic.com/media/11d6d3_f78ae08dab3b488783437af44f72ced4~mv2.png"
     },
+    {
+      id:76,
+      progName:"صلوات من اجل المرضى",  
+      progImg:"https://static.wixstatic.com/media/11d6d3_bb157edc563e4804ae7f1a9113812099~mv2.jpg"
+    },
 
   ]
 export default  dataPrograms;
