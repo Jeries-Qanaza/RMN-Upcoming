@@ -2,7 +2,7 @@ import dataPrograms from "../dataPrograms.js";
 
 const thursday = (time) => 
 {
-        let thursdayArr = ['1','32','72','14','69','58','70','53','6','42','19','13','27','58','2','15','1','53','14','56','12','60','13','61','35','58','58','30','56','51','58','1','43','58','28','19','2','64','58','6','14','58','58','31','75','73','53','1','37','61','62','35','13','26','14','58','63','19','56','69','51','53','24']
+        let thursdayArr = ['1','32','72','14','69','58','70','53','6','58','58','13','27','58','2','15','1','53','14','56','12','60','13','61','35','58','58','30','56','51','58','1','43','58','58','58','2','64','58','6','14','58','58','31','58','73','53','1','37','61','62','35','13','26','14','58','63','58','56','69','51','53','24']
         let currShow;
 
         if(time>=0&&time<0.15)               {currShow=0}
@@ -24,7 +24,7 @@ const thursday = (time) =>
         else if(time>=6&&time<6.15)          {currShow=16}
         else if(time>=6.15&&time<6.30)       {currShow=17}
         else if(time>=6.30&&time<6.45)       {currShow=18}
-        else if(time>=6.45&&time<7)          {currShow=19}
+        else if(time>=6.45&&time<7)          {currShow=58}
         else if(time>=7&&time<7.45)          {currShow=20}
         else if(time>=7.45&&time<8)          {currShow=21}
         else if(time>=8&&time<8.30)          {currShow=22}
@@ -54,10 +54,10 @@ const thursday = (time) =>
         else if(time>=17.30&&time<17.45)     {currShow=45}
         else if(time>=17.45&&time<18)        {currShow=46}
         else if(time>=18&&time<18.15)        {currShow=47}
-        else if(time>=18.15&&time<19)        {currShow=48}
-        else if(time>=19&&time<19.15)        {currShow=49}
-        else if(time>=19.15&&time<19.45)     {currShow=50}
-        else if(time>=19.45&&time<20)        {currShow=51}
+        else if(time>=18.15&&time<58)        {currShow=48}
+        else if(time>=58&&time<58.15)        {currShow=49}
+        else if(time>=58.15&&time<58.45)     {currShow=50}
+        else if(time>=58.45&&time<20)        {currShow=51}
         else if(time>=20&&time<20.30)        {currShow=52}
         else if(time>=20.30&&time<21)        {currShow=53}
         else if(time>=21&&time<21.15)        {currShow=58}
