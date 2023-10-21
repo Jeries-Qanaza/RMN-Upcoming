@@ -63,7 +63,7 @@ const dataPrograms =
     {
       id:13,
       progName:"نشرة الاخبار",
-      progImg:"https://i1.wp.com/nnn.ng/wp-content/uploads/2021/03/bbc-news.jpg"
+      progImg:"https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&q=80&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWljcm9waG9uZXxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
       id:14,
@@ -379,6 +379,16 @@ const dataPrograms =
       id:76,
       progName:"صلوات من اجل المرضى",  
       progImg:"https://static.wixstatic.com/media/11d6d3_bb157edc563e4804ae7f1a9113812099~mv2.jpg"
+    },
+    {
+      id:77,
+      progName:"حياتنا الروحية",  
+      progImg:"https://ar.zenit.org/wp-content/uploads/sites/5/2016/03/cross-106416_1920.jpg"
+    },
+    {
+      id:78,
+      progName:"غذاء الروح",  
+      progImg:"https://play-lh.googleusercontent.com/ij5rgBa4dInlklObkk1qd2D0xzUDCXHAeZCoZDTiBmkb2U23JveKLMp-bsA7sdRpJrA"
     },
 
   ]
