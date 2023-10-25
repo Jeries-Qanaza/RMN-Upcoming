@@ -57,7 +57,7 @@ const dataPrograms =
     },
     {
       id:12,
-      progName:"المسبحة اسرار الفرح + ترانيم",
+      progName:"المسبحة اسرار الفرح و ترانيم",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -157,7 +157,7 @@ const dataPrograms =
     },
     {
       id:32,
-      progName:"المسبحة اسرار الحزن + ترانيم",
+      progName:"المسبحة اسرار الحزن و ترانيم",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -182,7 +182,7 @@ const dataPrograms =
     },
     {
       id:37,
-      progName:"المسبحة اسرار المجد + ترانيم",
+      progName:"المسبحة اسرار المجد و ترانيم",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -212,7 +212,7 @@ const dataPrograms =
     },
     {
       id:43,
-      progName:"المسبحة اسرار النور + ترانيم",
+      progName:"المسبحة اسرار النور و ترانيم",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
