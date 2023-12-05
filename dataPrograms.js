@@ -57,7 +57,7 @@ const dataPrograms =
     },
     {
       id:12,
-      progName:"المسبحة اسرار الفرح و ترانيم",
+      progName:"المسبحة اسرار الفرح",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -157,7 +157,7 @@ const dataPrograms =
     },
     {
       id:32,
-      progName:"المسبحة اسرار الحزن و ترانيم",
+      progName:"المسبحة اسرار الحزن",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -182,7 +182,7 @@ const dataPrograms =
     },
     {
       id:37,
-      progName:"المسبحة اسرار المجد و ترانيم",
+      progName:"المسبحة اسرار المجد",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -212,7 +212,7 @@ const dataPrograms =
     },
     {
       id:43,
-      progName:"المسبحة اسرار النور و ترانيم",
+      progName:"المسبحة اسرار النور",
       progImg:"https://static.wixstatic.com/media/11d6d3_c452db44c45a43fda5200b8e6f8fd874~mv2.jpg"
     },
     {
@@ -390,6 +390,11 @@ const dataPrograms =
       progName:"غذاء الروح",  
       progImg:"https://play-lh.googleusercontent.com/ij5rgBa4dInlklObkk1qd2D0xzUDCXHAeZCoZDTiBmkb2U23JveKLMp-bsA7sdRpJrA"
     },
-
+    {
+      id:79,
+      progName:"نور المعرفة",  
+      progImg:"https://static.wixstatic.com/media/c2355d_93c495f588d64ee481d46a727370c513~mv2.png"
+    },
+      
   ]
 export default  dataPrograms;
