@@ -1,8 +1,8 @@
 import dataPrograms from "../dataPrograms.js";
 
 const sunday = (time) => {
-    let sundayArr  = ['1','32','2','14','11','52','53','6','58','2','19','13','56','58','2','15','1','53','14','43','56','58','60','13','61','35','59','58','57','58','56','58','31','58','1','37','78','57','58','19','2','27','6','14','77','64','58','35','56','58','57','53','1','12','61','59','31','13','26','14','58','19','2','30','56','57','53','24'];
-    let currShow=0;
+    let sundayArr = ['1', '32', '2', '14', '11', '52', '53', '6', '58', '79', '19', '13', '56', '58', '2', '15', '1', '53', '14', '43', '56', '58', '60', '13', '61', '35', '59', '58', '57', '58', '56', '58', '31', '79', '1', '37', '78', '57', '58', '19', '2', '27', '6', '14', '77', '64', '58', '35', '56', '58', '57', '53', '1', '12', '61', '59', '31', '13', '26', '14', '58', '19', '2', '30', '56', '57', '53', '24'];
+    let currShow = 0;
 
     if (time >= 0 && time < 0.15)       {currShow=0;}
     else if (time >= 0.15 && time < 1)  {currShow=1;}
@@ -13,7 +13,7 @@ const sunday = (time) => {
     else if (time >= 2.45 && time < 3)  {currShow=6;}
     else if (time >= 3 && time < 3.1)   {currShow=7;}
     else if (time >= 3.15 && time < 0.30) {currShow=8;}
-    else if (time >= 3.30 && time < 3.4) {currShow=9;}
+    else if (time >= 3.30 && time < 3.45) {currShow=9;}
     else if (time >= 3.45 && time < 4)   {urrShow=10;}
     else if (time >= 4 && time < 4.3)    {currShow=11;}
     else if (time >= 4.30 && time < 0.45) {currShow=12;}
@@ -30,7 +30,7 @@ const sunday = (time) => {
     else if (time >= 8 && time < 8.3)    {currShow=23;}
     else if (time >= 8.30 && time < 0.45) {currShow=24;}
     else if (time >= 8.45 && time < 9)    {urrShow=25;}
-    else if (time >= 9 && time < 9.1)    {currShow=26;}
+    else if (time >= 9 && time < 9.15)    {currShow=26;}
     else if (time >= 9.15 && time < 0.30) {currShow=27;}
     else if (time >= 9.30 && time < 9.5)  {currShow=28;}
     else if (time >= 9.45 && time < 10.5) {currShow=29;}
@@ -54,7 +54,7 @@ const sunday = (time) => {
     else if (time >= 16.30 && time < 16.4) {currShow=47;}
     else if (time >= 16.45 && time < 17)   {urrShow=48;}
     else if (time >= 17 && time < 17.3)   {currShow=49;}
-    else if (time >= 17.30 && time < 1.45) {currShow=50;}
+    else if (time >= 17.30 && time < 17.45) {currShow=50;}
     else if (time >= 17.45 && time < 18)   {urrShow=51;}
     else if (time >= 18 && time < 18.1)   {currShow=52;}
     else if (time >= 18.15 && time < 1)   {currShow=53;}
@@ -63,10 +63,11 @@ const sunday = (time) => {
     else if (time >= 19.30 && time < 20)  {urrShow=56;}
     else if (time >= 20 && time < 20.3)   {currShow=57;}
     else if (time >= 20.30 && time < 2)   {currShow=58;}
-    else if (time >= 21 && time < 21.1)   {currShow=59;}
-    else if (time >= 21.15 && time < 2)   {currShow=60;}
-    else if (time >= 22 && time < 22.1)   {currShow=61;}
-    else if (time >= 22.15 && time < 2.30) {currShow=62;}
+    else if (time >= 21 && time < 21.15)   {currShow=59;}
+    else if (time >= 21.15 && time < 21.30)   {currShow=60;}
+    else if (time >= 21.30 && time < 22)   {currShow=61;}
+    else if (time >= 22 && time < 22.15) {currShow=62;}
+    else if (time >= 22.15 && time < 22.30) {currShow=62;}
     else if (time >= 22.30 && time < 23)  {urrShow=63;}
     else if (time >= 23 && time < 23.1)   {currShow=64;}
     else if (time >= 23.15 && time < 2.30) {currShow=65;}
