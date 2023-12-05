@@ -1,8 +1,7 @@
 import dataPrograms from "../dataPrograms.js";
 
 const saturday = (time) => {
-    let saturdayArr = ['1','32','72','14','58','31','58','53','6','58','19','13','56','58','30','2','15','1','53','14','43','56','58','60','13','61','35','2','63','58','77','56','52','58','1','12','78','58','19','2','64','58','6','14','74','58','56','2','58','53','1','37','61','11','35','13','26','14','58','19','58','56','61','53','24'];
-
+    let saturdayArr = ['1', '32', '72', '14', '58', '31', '58', '53', '6', '58', '19', '13', '56', '58', '30', '2', '15', '1', '53', '14', '43', '56', '58', '60', '13', '61', '35', '79', '63', '58', '77', '52', '58', '1', '12', '78', '58', '19', '2', '64', '58', '6', '14', '74', '58', '56', '2', '58', '79', '53', '1', '37', '61', '11', '35', '13', '26', '14', '58', '79', '19', '58', '56', '61', '53', '24'];
     let currShow = 0; 
 
     if (time >= 0 && time < 0.15) { currShow = 0; }
@@ -39,11 +38,11 @@ const saturday = (time) => {
     else if (time >= 11 && time < 11.45) { currShow = 31; }
     else if (time >= 11.45 && time < 12) { currShow = 32; }
     else if (time >= 12 && time < 12.15) { currShow = 33; }
-    else if (time >= 12.15 && time < 13) { currShow = 34; }////المسبحة اسرار الفرح
-    else if (time >= 13 && time < 13.15) { currShow = 35; }//غذاء الروح
-    else if (time >= 13.15 && time < 14) { currShow = 36; }// trainem
+    else if (time >= 12.15 && time < 13) { currShow = 34; }
+    else if (time >= 13 && time < 13.15) { currShow = 35; }
+    else if (time >= 13.15 && time < 14) { currShow = 36; }
     else if (time >= 13.30 && time < 14) { currShow = 37; }
-    else if (time >= 14 && time < 14.15) { currShow = 38; }// قصة وعبرة
+    else if (time >= 14 && time < 14.15) { currShow = 38; }
     else if (time >= 14.15 && time < 14.30) { currShow = 39; }
     else if (time >= 14.30 && time < 14.45) { currShow = 40; }
     else if (time >= 14.45 && time < 15) { currShow = 41; }
@@ -53,7 +52,8 @@ const saturday = (time) => {
     else if (time >= 16.30 && time < 16.45) { currShow = 45; }
     else if (time >= 16.45 && time < 17) { currShow = 46; }
     else if (time >= 17 && time < 17.15) { currShow = 47; }
-    else if (time >= 17.15 && time < 17.45) { currShow = 48; }
+    else if (time >= 17.15 && time < 17.30) { currShow = 48; }
+    else if (time >= 17.30 && time < 17.45) { currShow = 48; }
     else if (time >= 17.45 && time < 18) { currShow = 49; }
     else if (time >= 18 && time < 18.15) { currShow = 50; }
     else if (time >= 18.15 && time < 19) { currShow = 51; }
@@ -70,7 +70,6 @@ const saturday = (time) => {
     else if (time >= 23.15 && time < 23.30) { currShow = 62; }
     else if (time >= 23.30 && time < 23.45) { currShow = 63; }
     else if (time >= 23.45 && time < 24) { currShow = 64; }
-    else if (time >= 24) { currShow = 64; } 
 
 
     console.log(saturdayArr[36]);
