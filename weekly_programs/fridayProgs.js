@@ -1,9 +1,7 @@
 import dataPrograms from "../dataPrograms.js";
 
 const friday = (time) => {
-    let fridayArr = ['1', '37', '40', '51', '30', '58', '53', '6', '58', '19', '13', '56', '58', '2', '15', '1', '53', '14', '43', '18', '60', '13', '61', '35', '58', '31', '56', '58', '51', '58', '1', '32', '78', '11', '58', '19', '2', '69', '6', '14', '58', '64', '58', '56', '58', '53', '1', '12', '61', '58', '35', '13', '26', '14', '58', '31', '19', '72', '27', '56', '61', '53', '24'];
-
-    
+    let fridayArr = ['1', '37', '40', '51', '30', '58', '53', '6', '58', '79', '19', '13', '56', '58', '2', '15', '1', '53', '14', '43', '18', '60', '13', '61', '35', '58', '31', '56', '58', '51', '58', '79', '1', '32', '78', '11', '58', '19', '2', '69', '6', '14', '58', '64', '58', '56', '58', '53', '1', '12', '61', '58', '35', '13', '26', '14', '58', '31', '19', '72', '27', '56', '61', '53', '24'];    
     let currShow = 0;
 
     if (time >= 0 && time < 0.15) { currShow = 0; }
@@ -14,7 +12,8 @@ const friday = (time) => {
     else if (time >= 2.30 && time < 2.45) { currShow = 5; }
     else if (time >= 2.45 && time < 3) { currShow = 6; }
     else if (time >= 3 && time < 3.15) { currShow = 7; }
-    else if (time >= 3.15 && time < 3.45) { currShow = 8; }
+    else if (time >= 3.15 && time < 3.30) { currShow = 8; }
+    else if (time >= 3.30 && time < 3.45) { currShow = 9; }
     else if (time >= 3.45 && time < 4) { currShow = 9; }
     else if (time >= 4 && time < 4.30) { currShow = 10; }
     else if (time >= 4.30 && time < 4.45) { currShow = 11; }
@@ -35,7 +34,8 @@ const friday = (time) => {
     else if (time >= 10.30 && time < 10.45) { currShow = 26; }
     else if (time >= 10.45 && time < 11) { currShow = 27; }
     else if (time >= 11 && time < 11.30) { currShow = 28; }
-    else if (time >= 11.30 && time < 12) { currShow = 29; }
+    else if (time >= 11.30 && time < 11.45) { currShow = 29; }
+    else if (time >= 11.45 && time < 12) { currShow = 29; }
     else if (time >= 12 && time < 12.15) { currShow = 30; }
     else if (time >= 12.15 && time < 13) { currShow = 31; }
     else if (time >= 13 && time < 13.15) { currShow = 32; }
